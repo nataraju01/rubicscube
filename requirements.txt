@@ -1,5 +1,2 @@
 streamlit==1.32.0
-opencv-python-headless==4.9.0.80
-numpy==1.26.4
-kociemba==1.2.1
-Pillow
+rubik-solver
